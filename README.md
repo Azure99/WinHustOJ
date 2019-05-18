@@ -1,13 +1,11 @@
 # HustOJ For Windows
-便携绿色, 开箱即用的OJ系统, 解压后运行HustOJ.exe
+便携绿色, 开箱即用的OJ系统, 解压后运行HustOJ.exe [点击下载](https://github.com/Azure99/WinHustOJ/releases)
 # 说明
 本项目仅为[HustOJ](https://github.com/zhblue/hustoj) Web端 + [OpenJudger](https://github.com/Azure99/OpenJudger) + 编译器的打包, 不含代码
 # 注意
 OJ路径中不得包含中文和空格
 
 # 集成运行环境
-Web: Apache2.4(已精简) + PHP7.3 + MariaDb10.2(已精简)
-
-评测机: [OpenJudger](https://github.com/Azure99/OpenJudger)
-
+Web: Apache2.4(已精简) + PHP7.3 + MariaDb10.2(已精简)<br>
+评测机: [OpenJudger](https://github.com/Azure99/OpenJudger)<br>
 编译器: TdmGCC5.1 + OpenJdk12 + Pypy3.6
